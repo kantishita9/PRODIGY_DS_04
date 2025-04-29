@@ -26,7 +26,7 @@ This project focuses on analyzing and visualizing sentiment patterns in social m
 # Conclusion
 This project demonstrates how sentiment analysis can extract valuable insights from social media data, helping businesses understand public opinion and improve strategies.
 
-Thanks for review.
+Thanks for the review.
 
 # Contact
 * [ishita](www.linkedin.com/in/kantishita9) (Linkdin)
